@@ -42,7 +42,7 @@ Welcome to my Github page.
 You can discover more about the articles I'm reading right now - check out my daily.dev profile by clicking below 👇
 <p align="center"> 
   <a href="https://app.daily.dev/combesal" target="_blank">
-    <img src="https://github.com/combesal/combesal/blob/main/devcard.svg" width="400" alt="Combesal Dev Card"/>
+    <img src="./devcard.png" width="400" alt="Combesal Dev Card"/>
 </p>
 
 
