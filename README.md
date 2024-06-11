@@ -10,6 +10,8 @@ Welcome to my Github page.
 - 🔎 I've started learning Express.
 - 🚀 Soon I’ll start learning NestJS.
 
+- I have another GitHub account here too: https://github.com/sopurdey which I used mostly while following various courses :)
+
 
 ## Languages and Tools
 <p align="center"> 
