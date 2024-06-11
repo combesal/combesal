@@ -2,8 +2,6 @@
 
 Welcome to my Github page. 
 
-# Hi there 👋
-
 ## About me
 - 💬 I've been learning web development since 2021 when I decided to change careers and discover exciting new challenges.
 - 🛠️ I've had the opportunity to learn about lots of different technos, both front and back.
