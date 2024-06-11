@@ -2,13 +2,13 @@
 
 Welcome to my Github page. 
 
+# Hi there 👋
+
 ## About me
 - 💬 I've been learning web development since 2021 when I decided to change careers and discover exciting new challenges.
 - 🛠️ I've had the opportunity to learn about lots of different technos, both front and back.
 - 🔭 I’m currently working on a 3-person project to design and develop an app that helps charities organise volunteers at events.
-- 🌱 I’m currently learning and improving my skills in React.
-- 🔎 I've started learning Express.
-- 🚀 Soon I’ll start learning NestJS.
+- 🔎 I've started learning about micro-services architecture using NATS & Docker.
 
 - I have another GitHub account here too: https://github.com/sopurdey which I used mostly while following various courses :)
 
