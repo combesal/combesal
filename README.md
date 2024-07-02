@@ -5,10 +5,11 @@ Welcome to my Github page.
 ## About me
 - 💬 I've been learning web development since 2021 when I decided to change careers and discover exciting new challenges.
 - 🛠️ I've had the opportunity to learn about lots of different technos, both front and back.
-- 🔭 I’m currently working on a 3-person project to design and develop an app that helps charities organise volunteers at events.
 - 🔎 I've started learning about micro-services architecture using NATS & Docker.
+- 💡 I'd like to teach myself Python soon.
+- 🌱 I'm a member of the the Guild Open Tech and currently contributing to the open-source project [GoT-Learn](https://github.com/GuildOpenTech/GOT-Learn).
 
-- I have another GitHub account here too: https://github.com/sopurdey which I used mostly while following various courses :)
+- [I have another GitHub account here](https://github.com/sopurdey), which I used mostly while following various courses :)
 
 
 ## Languages and Tools
@@ -39,7 +40,7 @@ Welcome to my Github page.
 </p>
 
 ## Continuous learning
-You can discover more about the articles I'm reading right now - check out my daily.dev profile by clicking below 👇
+You can discover more about the articles I'm reading right now by clicking on my daily.dev card below 👇
 <p align="center"> 
   <a href="https://app.daily.dev/combesal" target="_blank">
     <img src="./devcard.png" width="400" alt="Combesal Dev Card"/>
