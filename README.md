@@ -12,3 +12,12 @@
 ---
 
 📘 *Documentation isn’t a side note. It’s how your product speaks.*
+
+---
+
+## Continuous learning
+You can discover more about the articles I'm reading right now by clicking on my daily.dev card below 👇
+<p align="center"> 
+  <a href="https://app.daily.dev/combesal" target="_blank">
+    <img src="./devcard.png" width="400" alt="Combesal Dev Card"/>
+</p>
