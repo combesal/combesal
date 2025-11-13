@@ -19,7 +19,7 @@
 - 🌍 **Languages:** English (native), French (C2)
 
 Wondering if your docs could be improved?  
-📅 <a href="https://app.daily.dev/combesal](https://calendly.com/alison-combes/connect" target="_blank">Let’s talk</a>
+📅 <a href="https://calendly.com/alison-combes/connect" target="_blank">Let’s talk</a>
 
 ## Continuous learning
 You can discover more about the articles I'm reading right now by clicking on my daily.dev card below 👇
